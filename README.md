@@ -5,7 +5,14 @@ python3使用pip install安装时会报错，解决方法参考这篇博客https
 
 PeppaPig.py
 
-![avatar](https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg)
+![PeppaPig](https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg)
+<p align="center">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg" alt="Sample"  width="150" height="200">
+    <p align="center">
+        <em>PeppaPig</em>
+    </p>
+</p>
+
 
 clock.py
 
