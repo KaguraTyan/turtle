@@ -3,9 +3,9 @@ turtle（海龟库）是python的一个绘制图像的函数库，它就像海�
 
 python3使用pip install安装时会报错，解决方法参考这篇博客https://blog.csdn.net/m511655654/article/details/86214086
 
+
 PeppaPig.py
 
-![PeppaPig](https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg)
 <p align="center">
     <img src="https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg" alt="Sample"  width="150" height="200">
     <p align="center">
@@ -14,27 +14,68 @@ PeppaPig.py
 </p>
 
 
+
 clock.py
 
-![avatar](https://github.com/KaguraTyan/turtle/blob/master/clock.jpg)
+<p align="center">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/clock.jpg" alt="Sample"  width="150" height="200">
+    <p align="center">
+        <em>clock</em>
+    </p>
+</p>
+
+
 
 doraemon.py
 
-![avatar](https://github.com/KaguraTyan/turtle/blob/master/doraemon.gif)
+<p align="center">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/doraemon.gif" alt="Sample"  width="150" height="200">
+    <p align="center">
+        <em>doraemon</em>
+    </p>
+</p>
+
+
 
 pentagram.py
+<p align="center">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/pentagram.jpg" alt="Sample"  width="150" height="200">
+    <p align="center">
+        <em>pentagram</em>
+    </p>
+</p>
 
-![avatar](https://github.com/KaguraTyan/turtle/blob/master/pentagram.jpg)
 
 pikachu.py
 
-![avatar](https://github.com/KaguraTyan/turtle/blob/master/pikachu.jpg)
+<p align="center">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/pikachu.jpg" alt="Sample"  width="150" height="200">
+    <p align="center">
+        <em>pikachu</em>
+    </p>
+</p>
+
+
 
 rose.py
 
-![avatar](https://github.com/KaguraTyan/turtle/blob/master/rose.jpg)
+<p align="center">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/rose.jpg" alt="Sample"  width="150" height="200">
+    <p align="center">
+        <em>rose</em>
+    </p>
+</p>
+
+
+
 
 sunflower.py
 
-![avatar](https://github.com/KaguraTyan/turtle/blob/master/sunflower.jpg)
+<p align="center">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/sunflower.jpg" alt="Sample"  width="150" height="200">
+    <p align="center">
+        <em>sunflower</em>
+    </p>
+</p>
+
 
