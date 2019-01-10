@@ -5,24 +5,29 @@ python3使用pip install安装时会报错，解决方法参考这篇博客https
 
 PeppaPig.py
 
-![avatar](C:\Users\51165\Desktop\360截图20190110101956005.jpg)
+![avatar](https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg)
 
 clock.py
 
-![avatar](C:\Users\51165\Desktop\360截图20190110103253959.jpg)
+![avatar](https://github.com/KaguraTyan/turtle/blob/master/clock.jpg)
 
 doraemon.py
-![avatar](C:\Users\51165\Desktop\640.gif)
+
+![avatar](https://github.com/KaguraTyan/turtle/blob/master/doraemon.gif)
 
 pentagram.py
-![avatar](C:\Users\51165\Desktop\360截图20190110103242814.jpg)
 
-rose.py
-![avatar](C:\Users\51165\Desktop\360截图20190110102850401.jpg)
+![avatar](https://github.com/KaguraTyan/turtle/blob/master/pentagram.jpg)
 
 pikachu.py
-![avatar](C:\Users\51165\Desktop\360截图20190110104056629.jpg)
+
+![avatar](https://github.com/KaguraTyan/turtle/blob/master/pikachu.jpg)
+
+rose.py
+
+![avatar](https://github.com/KaguraTyan/turtle/blob/master/rose.jpg)
 
 sunflower.py
-![avatar](C:\Users\51165\Desktop\360截图20190110103213457.jpg)
+
+![avatar](https://github.com/KaguraTyan/turtle/blob/master/sunflower.jpg)
 
