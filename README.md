@@ -7,7 +7,7 @@ python3使用pip install安装时会报错，解决方法参考这篇博客https
 PeppaPig.py
 
 <p align="center">
-    <img src="https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg" alt="Sample"  width="150" height="200">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/PeppaPig.jpg" alt="PeppaPig"  width="150" height="200">
     <p align="center">
         <em>PeppaPig</em>
     </p>
@@ -18,7 +18,7 @@ PeppaPig.py
 clock.py
 
 <p align="center">
-    <img src="https://github.com/KaguraTyan/turtle/blob/master/clock.jpg" alt="Sample"  width="150" height="200">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/clock.jpg" alt="clock"  width="150" height="200">
     <p align="center">
         <em>clock</em>
     </p>
@@ -29,7 +29,7 @@ clock.py
 doraemon.py
 
 <p align="center">
-    <img src="https://github.com/KaguraTyan/turtle/blob/master/doraemon.gif" alt="Sample"  width="150" height="200">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/doraemon.gif" alt="doraemon"  width="150" height="200">
     <p align="center">
         <em>doraemon</em>
     </p>
@@ -38,8 +38,9 @@ doraemon.py
 
 
 pentagram.py
+
 <p align="center">
-    <img src="https://github.com/KaguraTyan/turtle/blob/master/pentagram.jpg" alt="Sample"  width="150" height="200">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/pentagram.jpg" alt="pentagram"  width="150" height="200">
     <p align="center">
         <em>pentagram</em>
     </p>
@@ -49,7 +50,7 @@ pentagram.py
 pikachu.py
 
 <p align="center">
-    <img src="https://github.com/KaguraTyan/turtle/blob/master/pikachu.jpg" alt="Sample"  width="150" height="200">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/pikachu.jpg" alt="pikachu"  width="150" height="200">
     <p align="center">
         <em>pikachu</em>
     </p>
@@ -60,7 +61,7 @@ pikachu.py
 rose.py
 
 <p align="center">
-    <img src="https://github.com/KaguraTyan/turtle/blob/master/rose.jpg" alt="Sample"  width="150" height="200">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/rose.jpg" alt="rose"  width="150" height="200">
     <p align="center">
         <em>rose</em>
     </p>
@@ -72,7 +73,7 @@ rose.py
 sunflower.py
 
 <p align="center">
-    <img src="https://github.com/KaguraTyan/turtle/blob/master/sunflower.jpg" alt="Sample"  width="150" height="200">
+    <img src="https://github.com/KaguraTyan/turtle/blob/master/sunflower.jpg" alt="sunflower"  width="150" height="200">
     <p align="center">
         <em>sunflower</em>
     </p>
